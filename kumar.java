@@ -6,5 +6,8 @@ System.out.println("this sample java progarm");
 System.out.println("this sample java progarm");
 System.out.println("this sample java progarm");
 System.out.println("hello wrold");
+System.out.println("this sample java progarm");
+System.out.println("this sample java progarm");
+System.out.println("hello wrold");
 }
 }
